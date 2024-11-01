@@ -1,4 +1,5 @@
 # HRMS Database Design for Jupiter Apparels
+![Alt text for the image](Images/Logo.jpg)
 
 ## Overview
 
