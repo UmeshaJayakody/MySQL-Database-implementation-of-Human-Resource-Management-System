@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Alt text for the image](Images/logo.png)
+
 This project is a **Human Resource Management System (HRMS)** designed for **Jupiter Apparels**, a multinational apparel corporation. The project involves creating a robust and scalable database to support **Personal Information Management (PIM)** and **Absence Management** for over 1000 employees, with future scalability for additional modules such as payroll and inventory management. 
 
 The database is designed with MySQL to ensure scalability, consistency, and ease of maintenance. It incorporates foreign key constraints, indexing, procedures, and triggers to maintain the ACID properties of the system.
@@ -69,6 +71,8 @@ The database consists of the following key entities:
 - MySQL Workbench or another MySQL client for executing queries
 
 ## Database Population
+
+![Alt text for the image](Images/Diagram.png)
 
 Sample organization and leave limit data have been pre-inserted into the database. You can find the basic structural details in the `Main ER Diagram.pdf` file, including:
 
